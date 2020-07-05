@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 70px;
+}
+.bg-carusel{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color:#e83e8c;
+}
+.btnBuy{
+    border:none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding:7px 10px;
+    text-align: center;
+    color:white;
+    background-color: #e83e8c;
+}
